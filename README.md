@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Juneyoung%20Park&fontSize=90" />
 
+### 👋 Hi there 👋 ###
+
 Techs that I've used
 
 <img src="https://img.shields.io/badge/Php-3766AB?style=flat-square&logo=Php&logoColor=white"/></a>&nbsp;
